@@ -3,28 +3,27 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### What's **Swift**?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+If you are here, I am sure you know what Swift is. 
 
-There are currently two themes built on Poole:
+### What's **Slices of Swift**?
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+In this blog I am talking about Swift, focusing more on the language itself that the environment it is used to develop for. My goal is to share my experience by describing problems encoutered during development, things I learned, solutions to common problems, different ways to to things, and whatever is relevant and useful to better use the langauge.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Being a polyglot developer, from time to time I will also talk about other languages not directly related to the Apple world.
 
-## Setup
+### Why Swift?
 
-Some fun facts about the setup of this project include:
+I am working with Swift since it's been announced. Regardless of what I think about the language, it's the future for iOS and MacOS development, so it's a must have for any developer wanting to develop apps for those platforms.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+That said, I can share my opinion. The first time I saw some Objective-C code (it wasn't long ago), it seemed ugly, confusing and difficult. I couple months later I was already appreciating it. But still I felt it was missing some important features every modern language needs, in primis generics, which is by far the feature I missed more.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I would define Swift it as a *simple but complex* language:
 
-Thanks for reading!
+* Simple because it's easy to get started with. If you know other object oriented languages (C#, Java), it's just a matter of learning the differences
+* Complex because to unleash its real power you have to dig deeper into all its features. Some of them are easy (generics, closures), others are a little more complicated (functional programming, optionals, currying functions)
+
+If you want to get in touch with me, mail me at `antonio (at) elapsus.com` or follow me on [twitter](https://twitter.com/ant_bello)
+
+*Antonio Bello*
